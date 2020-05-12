@@ -1,0 +1,29 @@
+=== Custom Google Analytics Plugin ===
+Contributors: Neil Patel
+Donate link: https://www.topwpguide.com/donate/
+Tags: Custom Google Analytics Plugin
+Requires at least: 4.0
+Tested up to: 4.8
+Stable tag: trunk
+Requires PHP: 5.4
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Custom WordPress Plugins
+
+== Description ==
+
+Give Description Here
+
+== Installation ==
+
+1) Access Your WordPress Admin Panel 
+2) Plugins > Add New > Upload > Select Folder Location
+3) Activate 
+4) You Are Ready To Go
+
+== Frequently Asked Questions ==
+
+= How can i add new Google Analytic code? =
+
+You need to access your cPanel > File Manager > WordPress Directory > WP Content > Plugins > Custom Google Anyltics Plugin > plugin.php > Edit <script> between </sctipt> file. 
